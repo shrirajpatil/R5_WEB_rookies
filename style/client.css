@@ -1,0 +1,41 @@
+.profile-section{
+    padding:2rem ;
+    background-color:#474747;
+    width: 20%;
+    position: absolute;
+}
+.profile-pic{
+    border-radius: 50%;
+    width: 200px;
+    align-items: center;
+    margin-top: 17rem;
+    border: auto;
+}
+h4{
+    color:azure;
+    width:80%;
+    box-shadow:0.5px 0.5px 2px 2px  rgb(244, 240, 240);
+    margin: 1.5rem 0;
+    font-size: 20px;
+}
+.request{
+    background-color:beige ;
+    border-radius: 10px;
+    border:none;
+    margin: 0.5rem 0;
+    color: black;
+    
+}
+p{
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+}
+.edit-profile{
+    background:transparent;
+    border-radius: 10px;
+    color: rgb(255, 239, 239);
+    margin-left: 30%;
+    margin-top: 8rem;
+
+}
